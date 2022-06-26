@@ -6,6 +6,37 @@
  * Forked from Normalize.css, licensed MIT (https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
  */
 
+
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --scroll-color: hsl(44, 94%, 37%);
+    --primary-color: #cf8f05;
+    --header-height: 170px;
+    --header-nav-min-height: 62px;
+    --nav-mobile-width: 300px;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background:#cd1818;
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #f12a43;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
 *,
 *::before,
 *::after {

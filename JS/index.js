@@ -76,7 +76,7 @@ fix(li);
 
 selector.find('.active').toggleClass('fa-chevron-up');
 selector.find('.active').toggleClass('fa-chevron-down');
-selector.find('.sub-menu').toggleClass('d-block');
+selector.find('.sub-menu').slideToggle();
  }
  li.hover(function()
  {
@@ -86,7 +86,7 @@ selector.find('.sub-menu').toggleClass('d-block');
  })
   
   
-
+// xử lí slider thumb
 
 $('.main-thumb  .thumb').hide();
 $('.main-thumb  .thumb:first-child').show();

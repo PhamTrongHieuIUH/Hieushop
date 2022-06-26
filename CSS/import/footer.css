@@ -5,6 +5,7 @@ padding-top: 45px;
 #footer .wp-inner .box
 {
          flex-basis: 25%;
+         padding-right: 20px;
 }
 #footer .wp-inner .box:first-child .box-head h3
 {

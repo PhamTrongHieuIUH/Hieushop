@@ -30,13 +30,15 @@
   }
   #wp-header nav .logo 
   {
-   padding-left: 1.4em;
+   margin-left: 1.4em;
    font-size: 1.4em;
+
   }
   #nav-bar
   {
      display: block !important;
      font-size: 1.2em;
+     width: 25px;
   }
 #search-responsive
 {
@@ -116,10 +118,18 @@
       top: 4px !important;
        right: 7px !important;
    }
-
+   #wp-content
+   {
+      margin-top: 95px ;
+   }
 #wp-header nav {
     background: #f12a43;
     padding: 5px 0px;
+    position: fixed;
+    left: 0;
+    right: 0%;
+    top: 0;
+    z-index: 1000;
 }
 /* content */
 #wp-content #bread-crumb
@@ -191,6 +201,12 @@
 {
    border-right: 1px solid rgba(0,0,0,.05);
 }
+#wp-content .wp-inner #content #carouselExampleDark {
+   padding:0;
+   border: 0;
+   background: #ffff;
+   margin-left: -5px;
+   margin-right: -5px;
 }
 /* tablet */
 @media(min-width:740px) and (max-width:1024px)
