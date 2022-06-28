@@ -142,6 +142,7 @@ background: #f12a43;
    z-index: 9999;
    box-shadow: 1px 0px 16px black;
    border-radius: 5px;
+   overflow: auto;
 }
 #wp-header #respon-menu #header
 {
@@ -199,12 +200,14 @@ padding: 5px 15px;
 }
 .advise::before
 {
-  content: "";
-  position: absolute;
-  width: 2px;
-  height: 80%;
-  background-color: gray;
-  right: -10px;
+  
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 75%;
+    background-color: white;
+    right: -10px;
+    top: 5px;
 
 
 }

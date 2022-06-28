@@ -6,7 +6,7 @@ $(function()
 
 
    //  localStorage.clear()
-     $('.cat  .list-cat li a').click(function()
+     $('.list-cat li a').click(function()
      {
         id_cat= $(this).attr("id_cat");
   
@@ -17,7 +17,7 @@ $(function()
 
      })
    
-     
+
      $('.cat .list-cat .sub-menu  .list-brand  li a').click(function()
      {
         id_cat= $(this).attr("id_cat");

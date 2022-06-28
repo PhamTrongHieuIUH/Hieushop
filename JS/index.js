@@ -41,19 +41,7 @@ $(function()
         $(this).find('.items-menu>a').toggleClass('fw-bold');
       
     })
-    $(window).scroll(function(event) {
-      var pos_body = $('html,body').scrollTop();
-      // console.log(pos_body);
-      if(pos_body>50){
-        var hClas=$('#wp-header #respon-menu').hasClass('active-respon-menu');
-        if(hClas)
-        {
-        active_respon_menu();
-        active_bg_opacity();
-        }
-      }
 
-    });
 //xử lí menu đa cấp content
       
  var li=$('#wp-content .wp-inner #side-bar .box-body .list-cat li');
@@ -109,7 +97,7 @@ $('.sub-thumb  .thumb').click(function()
 
 
                    
-
+// xử lí nút số lượng
 $('input.input-qty').each(function() {
   var $this = $(this),
     qty = $this.parent().find('.is-form'),
@@ -145,6 +133,31 @@ else
 {
   $('#qty').text(0);
 }
+// owl-carousrel
+// $(".owl-carousel").owlCarousel();
+$('.owl-carousel').owlCarousel({
+  loop:true,
+  margin:10,
+  autoplay:true,
+  autoplayTimeout:2000,
+  responsiveClass:true,
+  dots:true,
+  nav:false,
 
-
+  responsive:{
+      0:{
+          items:2,
+          nav:true
+      },
+      600:{
+          items:3,
+          nav:true
+      },
+      1000:{
+          items:4,
+          nav:true,
+          loop:true
+      }
+  }
+})
 })

@@ -165,9 +165,9 @@ font-size: 13px;
 /* code content */
 #wp-content .wp-inner #content
 {
-    /* flex-basis: 862px; */
+  
     flex-basis: 73.56%;
-    /* padding-left: 1.86%; */
+    overflow: hidden;
 }
 #wp-content .wp-inner #content #carouselExampleDark
 {
@@ -443,8 +443,20 @@ font-weight: 500;
       transition: all 1.5s;
   }
 }
-
-
+.owl-theme .owl-nav
+{
+  display: none;
+  margin-top: 0px;
+}
+#wp-header #respon-menu .logo,
+#wp-header #respon-menu #close-bar
+{
+  font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+  font-size: 1.5em !important;
+}
 
 
 

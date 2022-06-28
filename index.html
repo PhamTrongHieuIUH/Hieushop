@@ -11,16 +11,18 @@
     <link rel="stylesheet" href="CSS/style.css">
     <link rel="stylesheet" href="CSS/resposive.css">
     <link rel="stylesheet" href="Plugin/Fontawesome/css/all.css">
+    <link rel="stylesheet" href="Plugin/owlcarousel/assets/owl.carousel.min.css"> 
+    <link rel="stylesheet" href="Plugin/owlcarousel/assets/owl.theme.default.min.css">  
     <script src="JS/JQUERY/Jquery.js"></script>
     <script src="Bootstrap/js/popper.min.js"></script>
     <script src="Bootstrap/js/bootstrap.min.js"></script>
     <script src="JS/data.js"></script>
     <script src="JS/index.js"></script>
+    <script src="Plugin/owlcarousel/owl.carousel.min.js"></script>
     <title>Trang Chủ</title>
 </head>
 
 <body>
- 
     <div id="bg-opacity"></div>
     <div id="wrapper">
         <div id="wp-header" class="position-relative">
@@ -421,7 +423,7 @@
                             <h3>sản phẩm nổi bật</h3>
                         </div>
                         <div class="box-body">
-                            <ul class="list-product d-flex flex-wrap">
+                            <ul class="list-product owl-carousel owl-theme ">
                                 
                     
                            
@@ -447,7 +449,7 @@
                             <h3>lap top</h3>
                         </div>
                         <div class="box-body">
-                            <ul class="list-product d-flex flex-wrap justify-content-between">
+                            <ul class="list-product d-flex flex-wrap">
                               
                   
                             </ul>
@@ -571,10 +573,10 @@
                         " <a class='buy-now' id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html'>Mua Ngay</a></div> </li>"
                     );
                 }
-                for (var j = 0; j <4; j++) {
+                for (var j = 0; j <16; j++) {
         var i= Math.floor(Math.random() * 5) + 0;
         hight_line.append(
-                    "<li class='col-p-4 col-t-3 col-m-2'>" + "<div class='item-product '>"+  "<a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html' class='thumb'>" + "<img src='" + DSSP[i][j].thumb + "'" + "class='img-fluid'> </a>" + "<div class='infor-pro'>"
+                    "<li class=''>" + "<div class='item-product '>"+  "<a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html' class='thumb'>" + "<img src='" + DSSP[i][j].thumb + "'" + "class='img-fluid'> </a>" + "<div class='infor-pro'>"
                         + "<a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html' class='name'>" + DSSP[i][j].name + "</a>" +
                         "<p class='price'>" + DSSP[i][j].price + "<del class='old-price ms-2'>" + DSSP[i][j].old_price + "</del> </p> </div>" +
                         "<div class='buy d-flex justify-content-between flex-wrap'>" +
