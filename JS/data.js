@@ -3,7 +3,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-15",
         price:"29.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Phone/SamSung/1.jpg",
+        thumb:"Image/Phone/ReadMe/1.jpg",
         code_brand:"SS",
         id:1
         },
@@ -12,7 +12,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-76",
         price:"30.000.000đ",
         old_price:"36.000.000đ",
-        thumb:"Image/Phone/SamSung/2.jpg",
+        thumb:"Image/Phone/ReadMe/2.jpg",
         code_brand:"SS",
         id:2
         },
@@ -21,7 +21,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-79",
         price:"28.000.000đ",
         old_price:"31.000.000đ",
-        thumb:"Image/Phone/SamSung/3.jpg",
+        thumb:"Image/Phone/ReadMe/3.jpg",
         code_brand:"SS",
         id:3
         },
@@ -30,7 +30,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-87",
         price:"23.000.000đ",
         old_price:"38.000.000đ",
-        thumb:"Image/Phone/SamSung/4.jpg",
+        thumb:"Image/Phone/ReadMe/4.jpg",
         code_brand:"SS",
         id:4
         },
@@ -39,7 +39,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-27",
         price:"20.000.000đ",
         old_price:"36.000.000đ",
-        thumb:"Image/Phone/SamSung/5.jpg",
+        thumb:"Image/Phone/ReadMe/5.jpg",
         code_brand:"SS",
         id:5
         },
@@ -48,7 +48,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-65",
         price:"20.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Phone/SamSung/6.jpg",
+        thumb:"Image/Phone/ReadMe/6.jpg",
         code_brand:"SS",
         id:6
         },
@@ -57,7 +57,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-22",
         price:"28.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/7.jpg",
+        thumb:"Image/Phone/ReadMe/7.jpg",
         code_brand:"SS",
         id:7
         },
@@ -66,7 +66,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-92",
         price:"22.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Phone/SamSung/8.jpg",
+        thumb:"Image/Phone/ReadMe/8.jpg",
         code_brand:"SS",
         id:8
         },
@@ -75,7 +75,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-90",
         price:"28.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/9.jpg",
+        thumb:"Image/Phone/ReadMe/9.jpg",
         code_brand:"SS",
         id:9
         },
@@ -84,7 +84,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-94",
         price:"23.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Phone/SamSung/10.jpg",
+        thumb:"Image/Phone/ReadMe/10.jpg",
         code_brand:"SS",
         id:10
         },
@@ -93,7 +93,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-84",
         price:"30.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/11.jpg",
+        thumb:"Image/Phone/ReadMe/11.jpg",
         code_brand:"SS",
         id:11
         },
@@ -102,7 +102,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-29",
         price:"24.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/12.jpg",
+        thumb:"Image/Phone/ReadMe/12.jpg",
         code_brand:"SS",
         id:12
         },
@@ -111,36 +111,9 @@ var dienThoai=[
         name:"Điện Thoại SamSung-68",
         price:"27.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Phone/SamSung/13.jpg",
+        thumb:"Image/Phone/ReadMe/13.jpg",
         code_brand:"SS",
         id:13
-        },
-        
-        {
-        name:"Điện Thoại SamSung-47",
-        price:"30.000.000đ",
-        old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/14.jpg",
-        code_brand:"SS",
-        id:14
-        },
-        
-        {
-        name:"Điện Thoại SamSung-39",
-        price:"27.000.000đ",
-        old_price:"37.000.000đ",
-        thumb:"Image/Phone/SamSung/15.jpg",
-        code_brand:"SS",
-        id:15
-        },
-        
-        {
-        name:"Điện Thoại SamSung-21",
-        price:"27.000.000đ",
-        old_price:"39.000.000đ",
-        thumb:"Image/Phone/SamSung/16.jpg",
-        code_brand:"SS",
-        id:16
         },
         
         {
