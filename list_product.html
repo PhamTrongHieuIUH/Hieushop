@@ -683,12 +683,12 @@
                     if(DSSP[i][j].code_brand==code_brand)
                     {
                         $('.box .box-body .list-product').append(
-                        "<li>" + "<a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html' href='detail_product.html' class='thumb'>" + "<img src='" + DSSP[i][j].thumb + "'" + "class='img-fluid'> </a>" + "<div class='infor-pro'>"
-                        + "<a href='detail_product.html' class='name'>" + DSSP[i][j].name + "</a>" +
+                            "<li class='col-p-4 col-t-3 col-m-2'>" +"<div class='item-product'>"+ "<a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html' class='thumb'>" + "<img src='" + DSSP[i][j].thumb + "'" + "class='img-fluid'> </a>" + "<div class='infor-pro'>"
+                        + "<a href='' class='name'>" + DSSP[i][j].name + "</a>" +
                         "<p class='price'>" + DSSP[i][j].price + "<del class='old-price ms-2'>" + DSSP[i][j].old_price + "</del> </p> </div>" +
                         "<div class='buy d-flex justify-content-between flex-wrap'>" +
                         "<div class='add-cart'> <a  id_pro='" + DSSP[i][j].id + "'" + " href='cart.html'>Thêm giỏ hàng</a></div>"
-                        + "<div class='buy-now'> <a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html'>Mua ngay</a> </div> </div> </li>"
+                        + "<div class='buy-now'> <a id_pro='" + DSSP[i][j].id + "'" + " href='detail_product.html'>Mua ngay</a> </div> </div>" +"</div>"  +   "</li>"
                     ); 
                     }
                 }
