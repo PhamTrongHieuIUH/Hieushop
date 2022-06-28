@@ -3,7 +3,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-15",
         price:"29.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Phone/SamSung/1.JPG",
+        thumb:"Image/Phone/SamSung/1.jpg",
         code_brand:"SS",
         id:1
         },
@@ -12,7 +12,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-76",
         price:"30.000.000đ",
         old_price:"36.000.000đ",
-        thumb:"Image/Phone/SamSung/2.JPG",
+        thumb:"Image/Phone/SamSung/2.jpg",
         code_brand:"SS",
         id:2
         },
@@ -21,7 +21,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-79",
         price:"28.000.000đ",
         old_price:"31.000.000đ",
-        thumb:"Image/Phone/SamSung/3.JPG",
+        thumb:"Image/Phone/SamSung/3.jpg",
         code_brand:"SS",
         id:3
         },
@@ -30,7 +30,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-87",
         price:"23.000.000đ",
         old_price:"38.000.000đ",
-        thumb:"Image/Phone/SamSung/4.JPG",
+        thumb:"Image/Phone/SamSung/4.jpg",
         code_brand:"SS",
         id:4
         },
@@ -39,7 +39,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-27",
         price:"20.000.000đ",
         old_price:"36.000.000đ",
-        thumb:"Image/Phone/SamSung/5.JPG",
+        thumb:"Image/Phone/SamSung/5.jpg",
         code_brand:"SS",
         id:5
         },
@@ -48,7 +48,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-65",
         price:"20.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Phone/SamSung/6.JPG",
+        thumb:"Image/Phone/SamSung/6.jpg",
         code_brand:"SS",
         id:6
         },
@@ -57,7 +57,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-22",
         price:"28.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/7.JPG",
+        thumb:"Image/Phone/SamSung/7.jpg",
         code_brand:"SS",
         id:7
         },
@@ -66,7 +66,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-92",
         price:"22.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Phone/SamSung/8.JPG",
+        thumb:"Image/Phone/SamSung/8.jpg",
         code_brand:"SS",
         id:8
         },
@@ -75,7 +75,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-90",
         price:"28.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/9.JPG",
+        thumb:"Image/Phone/SamSung/9.jpg",
         code_brand:"SS",
         id:9
         },
@@ -84,7 +84,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-94",
         price:"23.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Phone/SamSung/10.JPG",
+        thumb:"Image/Phone/SamSung/10.jpg",
         code_brand:"SS",
         id:10
         },
@@ -93,7 +93,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-84",
         price:"30.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/11.JPG",
+        thumb:"Image/Phone/SamSung/11.jpg",
         code_brand:"SS",
         id:11
         },
@@ -102,7 +102,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-29",
         price:"24.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/12.JPG",
+        thumb:"Image/Phone/SamSung/12.jpg",
         code_brand:"SS",
         id:12
         },
@@ -111,7 +111,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-68",
         price:"27.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Phone/SamSung/13.JPG",
+        thumb:"Image/Phone/SamSung/13.jpg",
         code_brand:"SS",
         id:13
         },
@@ -120,7 +120,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-47",
         price:"30.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Phone/SamSung/14.JPG",
+        thumb:"Image/Phone/SamSung/14.jpg",
         code_brand:"SS",
         id:14
         },
@@ -129,7 +129,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-39",
         price:"27.000.000đ",
         old_price:"37.000.000đ",
-        thumb:"Image/Phone/SamSung/15.JPG",
+        thumb:"Image/Phone/SamSung/15.jpg",
         code_brand:"SS",
         id:15
         },
@@ -138,7 +138,7 @@ var dienThoai=[
         name:"Điện Thoại SamSung-21",
         price:"27.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Phone/SamSung/16.JPG",
+        thumb:"Image/Phone/SamSung/16.jpg",
         code_brand:"SS",
         id:16
         },
@@ -147,7 +147,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y49",
             price:"27.000.000đ",
             old_price:"37.000.000đ",
-            thumb:"Image/Phone/Vivo/1.JPG",
+            thumb:"Image/Phone/Vivo/1.jpg",
             code_brand:"VV",
             id:17
             },
@@ -156,7 +156,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y59",
             price:"28.000.000đ",
             old_price:"37.000.000đ",
-            thumb:"Image/Phone/Vivo/2.JPG",
+            thumb:"Image/Phone/Vivo/2.jpg",
             code_brand:"VV",
             id:18
             },
@@ -165,7 +165,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y94",
             price:"25.000.000đ",
             old_price:"39.000.000đ",
-            thumb:"Image/Phone/Vivo/3.JPG",
+            thumb:"Image/Phone/Vivo/3.jpg",
             code_brand:"VV",
             id:19
             },
@@ -174,7 +174,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y72",
             price:"24.000.000đ",
             old_price:"31.000.000đ",
-            thumb:"Image/Phone/Vivo/4.JPG",
+            thumb:"Image/Phone/Vivo/4.jpg",
             code_brand:"VV",
             id:20
             },
@@ -183,7 +183,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y29",
             price:"23.000.000đ",
             old_price:"40.000.000đ",
-            thumb:"Image/Phone/Vivo/5.JPG",
+            thumb:"Image/Phone/Vivo/5.jpg",
             code_brand:"VV",
             id:21
             },
@@ -192,7 +192,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y76",
             price:"30.000.000đ",
             old_price:"37.000.000đ",
-            thumb:"Image/Phone/Vivo/6.JPG",
+            thumb:"Image/Phone/Vivo/6.jpg",
             code_brand:"VV",
             id:22
             },
@@ -201,7 +201,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y31",
             price:"26.000.000đ",
             old_price:"35.000.000đ",
-            thumb:"Image/Phone/Vivo/7.JPG",
+            thumb:"Image/Phone/Vivo/7.jpg",
             code_brand:"VV",
             id:23
             },
@@ -210,7 +210,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y18",
             price:"29.000.000đ",
             old_price:"39.000.000đ",
-            thumb:"Image/Phone/Vivo/8.JPG",
+            thumb:"Image/Phone/Vivo/8.jpg",
             code_brand:"VV",
             id:24
             },
@@ -219,7 +219,7 @@ var dienThoai=[
             name:"Điện Thoại Vivo Y83",
             price:"30.000.000đ",
             old_price:"34.000.000đ",
-            thumb:"Image/Phone/Vivo/9.JPG",
+            thumb:"Image/Phone/Vivo/9.jpg",
             code_brand:"VV",
             id:25
             },
@@ -227,7 +227,7 @@ var dienThoai=[
                 name:"Điện Thoại Oppo-15",
                 price:"27.000.000đ",
                 old_price:"32.000.000đ",
-                thumb:"Image/Phone/Oppo/1.JPG",
+                thumb:"Image/Phone/Oppo/1.jpg",
                 code_brand:"OP",
                 id:26
                 },
@@ -236,7 +236,7 @@ var dienThoai=[
                 name:"Điện Thoại Oppo-38",
                 price:"26.000.000đ",
                 old_price:"35.000.000đ",
-                thumb:"Image/Phone/Oppo/2.JPG",
+                thumb:"Image/Phone/Oppo/2.jpg",
                 code_brand:"OP",
                 id:27
                 },
@@ -245,7 +245,7 @@ var dienThoai=[
                 name:"Điện Thoại Oppo-60",
                 price:"28.000.000đ",
                 old_price:"37.000.000đ",
-                thumb:"Image/Phone/Oppo/3.JPG",
+                thumb:"Image/Phone/Oppo/3.jpg",
                 code_brand:"OP",
                 id:28
                 },
@@ -254,7 +254,7 @@ var dienThoai=[
                 name:"Điện Thoại Oppo-57",
                 price:"24.000.000đ",
                 old_price:"36.000.000đ",
-                thumb:"Image/Phone/Oppo/4.JPG",
+                thumb:"Image/Phone/Oppo/4.jpg",
                 code_brand:"OP",
                 id:29
                 },
@@ -263,7 +263,7 @@ var dienThoai=[
                 name:"Điện Thoại Oppo-88",
                 price:"30.000.000đ",
                 old_price:"31.000.000đ",
-                thumb:"Image/Phone/Oppo/5.JPG",
+                thumb:"Image/Phone/Oppo/5.jpg",
                 code_brand:"OP",
                 id:30
                 },
@@ -272,7 +272,7 @@ var dienThoai=[
                 name:"Điện Thoại Oppo-97",
                 price:"29.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/Phone/Oppo/6.JPG",
+                thumb:"Image/Phone/Oppo/6.jpg",
                 code_brand:"OP",
                 id:31
                 },
@@ -280,7 +280,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-87",
                     price:"24.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/Phone/ReadMe/1.JPG",
+                    thumb:"Image/Phone/ReadMe/1.jpg",
                     code_brand:"RM",
                     id:32
                     },
@@ -289,7 +289,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-82",
                     price:"27.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/Phone/ReadMe/2.JPG",
+                    thumb:"Image/Phone/ReadMe/2.jpg",
                     code_brand:"RM",
                     id:33
                     },
@@ -298,7 +298,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-55",
                     price:"21.000.000đ",
                     old_price:"36.000.000đ",
-                    thumb:"Image/Phone/ReadMe/3.JPG",
+                    thumb:"Image/Phone/ReadMe/3.jpg",
                     code_brand:"RM",
                     id:34
                     },
@@ -307,7 +307,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-78",
                     price:"29.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/Phone/ReadMe/4.JPG",
+                    thumb:"Image/Phone/ReadMe/4.jpg",
                     code_brand:"RM",
                     id:35
                     },
@@ -316,7 +316,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-61",
                     price:"29.000.000đ",
                     old_price:"34.000.000đ",
-                    thumb:"Image/Phone/ReadMe/5.JPG",
+                    thumb:"Image/Phone/ReadMe/5.jpg",
                     code_brand:"RM",
                     id:36
                     },
@@ -325,7 +325,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-72",
                     price:"26.000.000đ",
                     old_price:"34.000.000đ",
-                    thumb:"Image/Phone/ReadMe/6.JPG",
+                    thumb:"Image/Phone/ReadMe/6.jpg",
                     code_brand:"RM",
                     id:37
                     },
@@ -334,7 +334,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-70",
                     price:"25.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/Phone/ReadMe/7.JPG",
+                    thumb:"Image/Phone/ReadMe/7.jpg",
                     code_brand:"RM",
                     id:38
                     },
@@ -343,7 +343,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-19",
                     price:"25.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/Phone/ReadMe/8.JPG",
+                    thumb:"Image/Phone/ReadMe/8.jpg",
                     code_brand:"RM",
                     id:39
                     },
@@ -352,7 +352,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-31",
                     price:"21.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/Phone/ReadMe/9.JPG",
+                    thumb:"Image/Phone/ReadMe/9.jpg",
                     code_brand:"RM",
                     id:40
                     },
@@ -361,7 +361,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-22",
                     price:"21.000.000đ",
                     old_price:"39.000.000đ",
-                    thumb:"Image/Phone/ReadMe/10.JPG",
+                    thumb:"Image/Phone/ReadMe/10.jpg",
                     code_brand:"RM",
                     id:41
                     },
@@ -370,7 +370,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-14",
                     price:"20.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/Phone/ReadMe/11.JPG",
+                    thumb:"Image/Phone/ReadMe/11.jpg",
                     code_brand:"RM",
                     id:42
                     },
@@ -379,7 +379,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-15",
                     price:"24.000.000đ",
                     old_price:"37.000.000đ",
-                    thumb:"Image/Phone/ReadMe/12.JPG",
+                    thumb:"Image/Phone/ReadMe/12.jpg",
                     code_brand:"RM",
                     id:43
                     },
@@ -388,7 +388,7 @@ var dienThoai=[
                     name:"Điện Thoại RealMe-35",
                     price:"20.000.000đ",
                     old_price:"36.000.000đ",
-                    thumb:"Image/Phone/ReadMe/13.JPG",
+                    thumb:"Image/Phone/ReadMe/13.jpg",
                     code_brand:"RM",
                     id:44
                     },
@@ -396,7 +396,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-42",
                         price:"24.000.000đ",
                         old_price:"39.000.000đ",
-                        thumb:"Image/Phone/Iphone/1.JPG",
+                        thumb:"Image/Phone/Iphone/1.jpg",
                         code_brand:"IP",
                         id:45
                         },
@@ -405,7 +405,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-13",
                         price:"21.000.000đ",
                         old_price:"38.000.000đ",
-                        thumb:"Image/Phone/Iphone/2.JPG",
+                        thumb:"Image/Phone/Iphone/2.jpg",
                         code_brand:"IP",
                         id:46
                         },
@@ -414,7 +414,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-51",
                         price:"26.000.000đ",
                         old_price:"31.000.000đ",
-                        thumb:"Image/Phone/Iphone/3.JPG",
+                        thumb:"Image/Phone/Iphone/3.jpg",
                         code_brand:"IP",
                         id:47
                         },
@@ -423,7 +423,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-36",
                         price:"28.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/Phone/Iphone/4.JPG",
+                        thumb:"Image/Phone/Iphone/4.jpg",
                         code_brand:"IP",
                         id:48
                         },
@@ -432,7 +432,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-63",
                         price:"29.000.000đ",
                         old_price:"40.000.000đ",
-                        thumb:"Image/Phone/Iphone/5.JPG",
+                        thumb:"Image/Phone/Iphone/5.jpg",
                         code_brand:"IP",
                         id:49
                         },
@@ -441,7 +441,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-50",
                         price:"21.000.000đ",
                         old_price:"31.000.000đ",
-                        thumb:"Image/Phone/Iphone/6.JPG",
+                        thumb:"Image/Phone/Iphone/6.jpg",
                         code_brand:"IP",
                         id:50
                         },
@@ -450,7 +450,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-61",
                         price:"27.000.000đ",
                         old_price:"36.000.000đ",
-                        thumb:"Image/Phone/Iphone/7.JPG",
+                        thumb:"Image/Phone/Iphone/7.jpg",
                         code_brand:"IP",
                         id:51
                         },
@@ -459,7 +459,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-82",
                         price:"27.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/Phone/Iphone/8.JPG",
+                        thumb:"Image/Phone/Iphone/8.jpg",
                         code_brand:"IP",
                         id:52
                         },
@@ -468,7 +468,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-54",
                         price:"21.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/Phone/Iphone/9.JPG",
+                        thumb:"Image/Phone/Iphone/9.jpg",
                         code_brand:"IP",
                         id:53
                         },
@@ -477,7 +477,7 @@ var dienThoai=[
                         name:"Điện Thoại Iphone-17",
                         price:"23.000.000đ",
                         old_price:"40.000.000đ",
-                        thumb:"Image/Phone/Iphone/10.JPG",
+                        thumb:"Image/Phone/Iphone/10.jpg",
                         code_brand:"IP",
                         id:54
                         }
@@ -489,7 +489,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-17",
         price:"22.000.000đ",
         old_price:"32.000.000đ",
-        thumb:"Image/Tablet/Iphone/1.JPG",
+        thumb:"Image/Tablet/Iphone/1.jpg",
         code_brand:"IP",
         id:55
         },
@@ -498,7 +498,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-95",
         price:"25.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Tablet/Iphone/2.JPG",
+        thumb:"Image/Tablet/Iphone/2.jpg",
         code_brand:"IP",
         id:56
         },
@@ -507,7 +507,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-51",
         price:"23.000.000đ",
         old_price:"34.000.000đ",
-        thumb:"Image/Tablet/Iphone/3.JPG",
+        thumb:"Image/Tablet/Iphone/3.jpg",
         code_brand:"IP",
         id:57
         },
@@ -516,7 +516,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-73",
         price:"22.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Tablet/Iphone/4.JPG",
+        thumb:"Image/Tablet/Iphone/4.jpg",
         code_brand:"IP",
         id:58
         },
@@ -525,7 +525,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-23",
         price:"25.000.000đ",
         old_price:"37.000.000đ",
-        thumb:"Image/Tablet/Iphone/5.JPG",
+        thumb:"Image/Tablet/Iphone/5.jpg",
         code_brand:"IP",
         id:59
         },
@@ -534,7 +534,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-10",
         price:"29.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Tablet/Iphone/6.JPG",
+        thumb:"Image/Tablet/Iphone/6.jpg",
         code_brand:"IP",
         id:60
         },
@@ -543,7 +543,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-74",
         price:"30.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Tablet/Iphone/7.JPG",
+        thumb:"Image/Tablet/Iphone/7.jpg",
         code_brand:"IP",
         id:61
         },
@@ -552,7 +552,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-35",
         price:"26.000.000đ",
         old_price:"35.000.000đ",
-        thumb:"Image/Tablet/Iphone/8.JPG",
+        thumb:"Image/Tablet/Iphone/8.jpg",
         code_brand:"IP",
         id:62
         },
@@ -561,7 +561,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-31",
         price:"30.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Tablet/Iphone/9.JPG",
+        thumb:"Image/Tablet/Iphone/9.jpg",
         code_brand:"IP",
         id:63
         },
@@ -570,7 +570,7 @@ var dienThoai=[
         name:"Tablet Apple iPad-77",
         price:"28.000.000đ",
         old_price:"39.000.000đ",
-        thumb:"Image/Tablet/Iphone/10.JPG",
+        thumb:"Image/Tablet/Iphone/10.jpg",
         code_brand:"IP",
         id:64
         },
@@ -578,7 +578,7 @@ var dienThoai=[
             name:"Tablet SamSung Tab-37",
             price:"20.000.000đ",
             old_price:"31.000.000đ",
-            thumb:"Image/Tablet/Samsung/1.JPG",
+            thumb:"Image/Tablet/Samsung/1.jpg",
             code_brand:"SS",
             id:65
             },
@@ -587,7 +587,7 @@ var dienThoai=[
             name:"Tablet SamSung Tab-72",
             price:"25.000.000đ",
             old_price:"38.000.000đ",
-            thumb:"Image/Tablet/Samsung/2.JPG",
+            thumb:"Image/Tablet/Samsung/2.jpg",
             code_brand:"SS",
             id:66
             },
@@ -596,7 +596,7 @@ var dienThoai=[
             name:"Tablet SamSung Tab-13",
             price:"30.000.000đ",
             old_price:"38.000.000đ",
-            thumb:"Image/Tablet/Samsung/3.JPG",
+            thumb:"Image/Tablet/Samsung/3.jpg",
             code_brand:"SS",
             id:67
             },
@@ -605,7 +605,7 @@ var dienThoai=[
             name:"Tablet SamSung Tab-99",
             price:"22.000.000đ",
             old_price:"37.000.000đ",
-            thumb:"Image/Tablet/Samsung/4.JPG",
+            thumb:"Image/Tablet/Samsung/4.jpg",
             code_brand:"SS",
             id:68
             },
@@ -614,7 +614,7 @@ var dienThoai=[
             name:"Tablet SamSung Tab-67",
             price:"22.000.000đ",
             old_price:"37.000.000đ",
-            thumb:"Image/Tablet/Samsung/5.JPG",
+            thumb:"Image/Tablet/Samsung/5.jpg",
             code_brand:"SS",
             id:69
             } 
@@ -624,7 +624,7 @@ var dienThoai=[
                 name:"Laptop Asus-83",
                 price:"20.000.000đ",
                 old_price:"40.000.000đ",
-                thumb:"Image/LapTop/Asus/1.JPG",
+                thumb:"Image/LapTop/Asus/1.jpg",
                 code_brand:"AS",
                 id:70
                 },
@@ -633,7 +633,7 @@ var dienThoai=[
                 name:"Laptop Asus-34",
                 price:"29.000.000đ",
                 old_price:"38.000.000đ",
-                thumb:"Image/LapTop/Asus/2.JPG",
+                thumb:"Image/LapTop/Asus/2.jpg",
                 code_brand:"AS",
                 id:71
                 },
@@ -642,7 +642,7 @@ var dienThoai=[
                 name:"Laptop Asus-93",
                 price:"22.000.000đ",
                 old_price:"40.000.000đ",
-                thumb:"Image/LapTop/Asus/3.JPG",
+                thumb:"Image/LapTop/Asus/3.jpg",
                 code_brand:"AS",
                 id:72
                 },
@@ -651,7 +651,7 @@ var dienThoai=[
                 name:"Laptop Asus-29",
                 price:"28.000.000đ",
                 old_price:"38.000.000đ",
-                thumb:"Image/LapTop/Asus/4.JPG",
+                thumb:"Image/LapTop/Asus/4.jpg",
                 code_brand:"AS",
                 id:73
                 },
@@ -660,7 +660,7 @@ var dienThoai=[
                 name:"Laptop Asus-79",
                 price:"29.000.000đ",
                 old_price:"40.000.000đ",
-                thumb:"Image/LapTop/Asus/5.JPG",
+                thumb:"Image/LapTop/Asus/5.jpg",
                 code_brand:"AS",
                 id:74
                 },
@@ -669,7 +669,7 @@ var dienThoai=[
                 name:"Laptop Asus-82",
                 price:"30.000.000đ",
                 old_price:"40.000.000đ",
-                thumb:"Image/LapTop/Asus/6.JPG",
+                thumb:"Image/LapTop/Asus/6.jpg",
                 code_brand:"AS",
                 id:75
                 },
@@ -678,7 +678,7 @@ var dienThoai=[
                 name:"Laptop Asus-72",
                 price:"28.000.000đ",
                 old_price:"31.000.000đ",
-                thumb:"Image/LapTop/Asus/7.JPG",
+                thumb:"Image/LapTop/Asus/7.jpg",
                 code_brand:"AS",
                 id:76
                 },
@@ -687,7 +687,7 @@ var dienThoai=[
                 name:"Laptop Asus-86",
                 price:"20.000.000đ",
                 old_price:"35.000.000đ",
-                thumb:"Image/LapTop/Asus/8.JPG",
+                thumb:"Image/LapTop/Asus/8.jpg",
                 code_brand:"AS",
                 id:77
                 },
@@ -696,7 +696,7 @@ var dienThoai=[
                 name:"Laptop Asus-57",
                 price:"25.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/LapTop/Asus/9.JPG",
+                thumb:"Image/LapTop/Asus/9.jpg",
                 code_brand:"AS",
                 id:78
                 },
@@ -705,7 +705,7 @@ var dienThoai=[
                 name:"Laptop Asus-99",
                 price:"28.000.000đ",
                 old_price:"37.000.000đ",
-                thumb:"Image/LapTop/Asus/10.JPG",
+                thumb:"Image/LapTop/Asus/10.jpg",
                 code_brand:"AS",
                 id:79
                 },
@@ -714,7 +714,7 @@ var dienThoai=[
                 name:"Laptop Asus-47",
                 price:"26.000.000đ",
                 old_price:"36.000.000đ",
-                thumb:"Image/LapTop/Asus/11.JPG",
+                thumb:"Image/LapTop/Asus/11.jpg",
                 code_brand:"AS",
                 id:80
                 },
@@ -723,7 +723,7 @@ var dienThoai=[
                 name:"Laptop Asus-68",
                 price:"23.000.000đ",
                 old_price:"35.000.000đ",
-                thumb:"Image/LapTop/Asus/12.JPG",
+                thumb:"Image/LapTop/Asus/12.jpg",
                 code_brand:"AS",
                 id:81
                 },
@@ -732,7 +732,7 @@ var dienThoai=[
                 name:"Laptop Asus-47",
                 price:"27.000.000đ",
                 old_price:"39.000.000đ",
-                thumb:"Image/LapTop/Asus/13.JPG",
+                thumb:"Image/LapTop/Asus/13.jpg",
                 code_brand:"AS",
                 id:82
                 },
@@ -741,7 +741,7 @@ var dienThoai=[
                 name:"Laptop Asus-69",
                 price:"26.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/LapTop/Asus/14.JPG",
+                thumb:"Image/LapTop/Asus/14.jpg",
                 code_brand:"AS",
                 id:83
                 },
@@ -750,7 +750,7 @@ var dienThoai=[
                 name:"Laptop Asus-77",
                 price:"22.000.000đ",
                 old_price:"32.000.000đ",
-                thumb:"Image/LapTop/Asus/15.JPG",
+                thumb:"Image/LapTop/Asus/15.jpg",
                 code_brand:"AS",
                 id:84
                 },
@@ -759,7 +759,7 @@ var dienThoai=[
                 name:"Laptop Asus-21",
                 price:"28.000.000đ",
                 old_price:"36.000.000đ",
-                thumb:"Image/LapTop/Asus/16.JPG",
+                thumb:"Image/LapTop/Asus/16.jpg",
                 code_brand:"AS",
                 id:85
                 },
@@ -768,7 +768,7 @@ var dienThoai=[
                 name:"Laptop Asus-94",
                 price:"27.000.000đ",
                 old_price:"36.000.000đ",
-                thumb:"Image/LapTop/Asus/17.JPG",
+                thumb:"Image/LapTop/Asus/17.jpg",
                 code_brand:"AS",
                 id:86
                 },
@@ -777,7 +777,7 @@ var dienThoai=[
                     name:"Laptop Dell-20",
                     price:"27.000.000đ",
                     old_price:"33.000.000đ",
-                    thumb:"Image/LapTop/Dell/1.JPG",
+                    thumb:"Image/LapTop/Dell/1.jpg",
                     code_brand:"DE",
                     id:87
                     },
@@ -786,7 +786,7 @@ var dienThoai=[
                     name:"Laptop Dell-87",
                     price:"21.000.000đ",
                     old_price:"35.000.000đ",
-                    thumb:"Image/LapTop/Dell/2.JPG",
+                    thumb:"Image/LapTop/Dell/2.jpg",
                     code_brand:"DE",
                     id:88
                     },
@@ -795,7 +795,7 @@ var dienThoai=[
                     name:"Laptop Dell-28",
                     price:"22.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/LapTop/Dell/3.JPG",
+                    thumb:"Image/LapTop/Dell/3.jpg",
                     code_brand:"DE",
                     id:89
                     },
@@ -804,7 +804,7 @@ var dienThoai=[
                     name:"Laptop Dell-82",
                     price:"24.000.000đ",
                     old_price:"33.000.000đ",
-                    thumb:"Image/LapTop/Dell/4.JPG",
+                    thumb:"Image/LapTop/Dell/4.jpg",
                     code_brand:"DE",
                     id:90
                     },
@@ -813,7 +813,7 @@ var dienThoai=[
                     name:"Laptop Dell-16",
                     price:"22.000.000đ",
                     old_price:"31.000.000đ",
-                    thumb:"Image/LapTop/Dell/5.JPG",
+                    thumb:"Image/LapTop/Dell/5.jpg",
                     code_brand:"DE",
                     id:91
                     },
@@ -822,7 +822,7 @@ var dienThoai=[
                     name:"Laptop Dell-86",
                     price:"29.000.000đ",
                     old_price:"39.000.000đ",
-                    thumb:"Image/LapTop/Dell/6.JPG",
+                    thumb:"Image/LapTop/Dell/6.jpg",
                     code_brand:"DE",
                     id:92
                     },
@@ -831,7 +831,7 @@ var dienThoai=[
                     name:"Laptop Dell-60",
                     price:"22.000.000đ",
                     old_price:"34.000.000đ",
-                    thumb:"Image/LapTop/Dell/7.JPG",
+                    thumb:"Image/LapTop/Dell/7.jpg",
                     code_brand:"DE",
                     id:93
                     },
@@ -840,7 +840,7 @@ var dienThoai=[
                     name:"Laptop Dell-83",
                     price:"22.000.000đ",
                     old_price:"39.000.000đ",
-                    thumb:"Image/LapTop/Dell/8.JPG",
+                    thumb:"Image/LapTop/Dell/8.jpg",
                     code_brand:"DE",
                     id:94
                     },
@@ -849,7 +849,7 @@ var dienThoai=[
                     name:"Laptop Dell-95",
                     price:"25.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/LapTop/Dell/9.JPG",
+                    thumb:"Image/LapTop/Dell/9.jpg",
                     code_brand:"DE",
                     id:95
                     },
@@ -858,7 +858,7 @@ var dienThoai=[
                     name:"Laptop Dell-35",
                     price:"25.000.000đ",
                     old_price:"35.000.000đ",
-                    thumb:"Image/LapTop/Dell/10.JPG",
+                    thumb:"Image/LapTop/Dell/10.jpg",
                     code_brand:"DE",
                     id:96
                     },
@@ -867,7 +867,7 @@ var dienThoai=[
                     name:"Laptop Dell-41",
                     price:"27.000.000đ",
                     old_price:"32.000.000đ",
-                    thumb:"Image/LapTop/Dell/11.JPG",
+                    thumb:"Image/LapTop/Dell/11.jpg",
                     code_brand:"DE",
                     id:97
                     },
@@ -876,7 +876,7 @@ var dienThoai=[
                     name:"Laptop Dell-34",
                     price:"27.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/LapTop/Dell/12.JPG",
+                    thumb:"Image/LapTop/Dell/12.jpg",
                     code_brand:"DE",
                     id:98
                     },
@@ -885,7 +885,7 @@ var dienThoai=[
                     name:"Laptop Dell-44",
                     price:"20.000.000đ",
                     old_price:"32.000.000đ",
-                    thumb:"Image/LapTop/Dell/13.JPG",
+                    thumb:"Image/LapTop/Dell/13.jpg",
                     code_brand:"DE",
                     id:99
                     },
@@ -894,7 +894,7 @@ var dienThoai=[
                     name:"Laptop Dell-98",
                     price:"23.000.000đ",
                     old_price:"37.000.000đ",
-                    thumb:"Image/LapTop/Dell/14.JPG",
+                    thumb:"Image/LapTop/Dell/14.jpg",
                     code_brand:"DE",
                     id:100
                     },
@@ -903,7 +903,7 @@ var dienThoai=[
                     name:"Laptop Dell-79",
                     price:"21.000.000đ",
                     old_price:"37.000.000đ",
-                    thumb:"Image/LapTop/Dell/15.JPG",
+                    thumb:"Image/LapTop/Dell/15.jpg",
                     code_brand:"DE",
                     id:101
                     },
@@ -912,7 +912,7 @@ var dienThoai=[
                         name:"Laptop HP-84",
                         price:"28.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/LapTop/Hp/1.JPG",
+                        thumb:"Image/LapTop/Hp/1.jpg",
                         code_brand:"HP",
                         id:102
                         },
@@ -921,7 +921,7 @@ var dienThoai=[
                         name:"Laptop HP-54",
                         price:"21.000.000đ",
                         old_price:"38.000.000đ",
-                        thumb:"Image/LapTop/Hp/2.JPG",
+                        thumb:"Image/LapTop/Hp/2.jpg",
                         code_brand:"HP",
                         id:103
                         },
@@ -930,7 +930,7 @@ var dienThoai=[
                         name:"Laptop HP-97",
                         price:"30.000.000đ",
                         old_price:"33.000.000đ",
-                        thumb:"Image/LapTop/Hp/3.JPG",
+                        thumb:"Image/LapTop/Hp/3.jpg",
                         code_brand:"HP",
                         id:104
                         },
@@ -939,7 +939,7 @@ var dienThoai=[
                         name:"Laptop HP-59",
                         price:"28.000.000đ",
                         old_price:"39.000.000đ",
-                        thumb:"Image/LapTop/Hp/4.JPG",
+                        thumb:"Image/LapTop/Hp/4.jpg",
                         code_brand:"HP",
                         id:105
                         },
@@ -948,7 +948,7 @@ var dienThoai=[
                         name:"Laptop HP-34",
                         price:"28.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/LapTop/Hp/5.JPG",
+                        thumb:"Image/LapTop/Hp/5.jpg",
                         code_brand:"HP",
                         id:106
                         },
@@ -957,7 +957,7 @@ var dienThoai=[
                         name:"Laptop HP-74",
                         price:"24.000.000đ",
                         old_price:"37.000.000đ",
-                        thumb:"Image/LapTop/Hp/6.JPG",
+                        thumb:"Image/LapTop/Hp/6.jpg",
                         code_brand:"HP",
                         id:107
                         },
@@ -966,7 +966,7 @@ var dienThoai=[
                         name:"Laptop HP-46",
                         price:"29.000.000đ",
                         old_price:"38.000.000đ",
-                        thumb:"Image/LapTop/Hp/7.JPG",
+                        thumb:"Image/LapTop/Hp/7.jpg",
                         code_brand:"HP",
                         id:108
                         },
@@ -975,7 +975,7 @@ var dienThoai=[
                         name:"Laptop HP-39",
                         price:"25.000.000đ",
                         old_price:"40.000.000đ",
-                        thumb:"Image/LapTop/Hp/8.JPG",
+                        thumb:"Image/LapTop/Hp/8.jpg",
                         code_brand:"HP",
                         id:109
                         },
@@ -984,7 +984,7 @@ var dienThoai=[
                             name:"Laptop SMI-38",
                             price:"29.000.000đ",
                             old_price:"40.000.000đ",
-                            thumb:"Image/LapTop/MSI/1.JPG",
+                            thumb:"Image/LapTop/MSI/1.jpg",
                             code_brand:"MS",
                             id:110
                             },
@@ -993,7 +993,7 @@ var dienThoai=[
                             name:"Laptop SMI-49",
                             price:"21.000.000đ",
                             old_price:"32.000.000đ",
-                            thumb:"Image/LapTop/MSI/2.JPG",
+                            thumb:"Image/LapTop/MSI/2.jpg",
                             code_brand:"MS",
                             id:111
                             },
@@ -1002,7 +1002,7 @@ var dienThoai=[
                             name:"Laptop SMI-57",
                             price:"27.000.000đ",
                             old_price:"40.000.000đ",
-                            thumb:"Image/LapTop/MSI/3.JPG",
+                            thumb:"Image/LapTop/MSI/3.jpg",
                             code_brand:"MS",
                             id:112
                             },
@@ -1011,7 +1011,7 @@ var dienThoai=[
                             name:"Laptop SMI-40",
                             price:"23.000.000đ",
                             old_price:"35.000.000đ",
-                            thumb:"Image/LapTop/MSI/4.JPG",
+                            thumb:"Image/LapTop/MSI/4.jpg",
                             code_brand:"MS",
                             id:113
                             },
@@ -1020,7 +1020,7 @@ var dienThoai=[
                             name:"Laptop SMI-22",
                             price:"29.000.000đ",
                             old_price:"39.000.000đ",
-                            thumb:"Image/LapTop/MSI/5.JPG",
+                            thumb:"Image/LapTop/MSI/5.jpg",
                             code_brand:"MS",
                             id:114
                             },
@@ -1029,7 +1029,7 @@ var dienThoai=[
                             name:"Laptop SMI-55",
                             price:"23.000.000đ",
                             old_price:"37.000.000đ",
-                            thumb:"Image/LapTop/MSI/6.JPG",
+                            thumb:"Image/LapTop/MSI/6.jpg",
                             code_brand:"MS",
                             id:115
                             },
@@ -1038,7 +1038,7 @@ var dienThoai=[
                             name:"Laptop SMI-63",
                             price:"20.000.000đ",
                             old_price:"36.000.000đ",
-                            thumb:"Image/LapTop/MSI/7.JPG",
+                            thumb:"Image/LapTop/MSI/7.jpg",
                             code_brand:"MS",
                             id:116
                             },
@@ -1047,7 +1047,7 @@ var dienThoai=[
                             name:"Laptop SMI-14",
                             price:"27.000.000đ",
                             old_price:"39.000.000đ",
-                            thumb:"Image/LapTop/MSI/8.JPG",
+                            thumb:"Image/LapTop/MSI/8.jpg",
                             code_brand:"MS",
                             id:117
                             },
@@ -1056,7 +1056,7 @@ var dienThoai=[
                             name:"Laptop SMI-37",
                             price:"24.000.000đ",
                             old_price:"32.000.000đ",
-                            thumb:"Image/LapTop/MSI/9.JPG",
+                            thumb:"Image/LapTop/MSI/9.jpg",
                             code_brand:"MS",
                             id:118
                             },
@@ -1065,7 +1065,7 @@ var dienThoai=[
                             name:"Laptop SMI-54",
                             price:"23.000.000đ",
                             old_price:"34.000.000đ",
-                            thumb:"Image/LapTop/MSI/10.JPG",
+                            thumb:"Image/LapTop/MSI/10.jpg",
                             code_brand:"MS",
                             id:119
                             },
@@ -1074,7 +1074,7 @@ var dienThoai=[
                             name:"Laptop SMI-12",
                             price:"27.000.000đ",
                             old_price:"39.000.000đ",
-                            thumb:"Image/LapTop/MSI/11.JPG",
+                            thumb:"Image/LapTop/MSI/11.jpg",
                             code_brand:"MS",
                             id:120
                             },
@@ -1083,7 +1083,7 @@ var dienThoai=[
                             name:"Laptop SMI-73",
                             price:"30.000.000đ",
                             old_price:"36.000.000đ",
-                            thumb:"Image/LapTop/MSI/12.JPG",
+                            thumb:"Image/LapTop/MSI/12.jpg",
                             code_brand:"MS",
                             id:121
                             }
@@ -1095,7 +1095,7 @@ var dienThoai=[
                 name:"Loa-96",
                 price:"30.000.000đ",
                 old_price:"38.000.000đ",
-                thumb:"Image/accessory/loudspeaker/2.JPG",
+                thumb:"Image/accessory/loudspeaker/2.jpg",
                 code_brand:"LO",
                 id:122
                 },
@@ -1104,7 +1104,7 @@ var dienThoai=[
                 name:"Loa-14",
                 price:"21.000.000đ",
                 old_price:"35.000.000đ",
-                thumb:"Image/accessory/loudspeaker/3.JPG",
+                thumb:"Image/accessory/loudspeaker/3.jpg",
                 code_brand:"LO",
                 id:123
                 },
@@ -1113,7 +1113,7 @@ var dienThoai=[
                 name:"Loa-70",
                 price:"20.000.000đ",
                 old_price:"32.000.000đ",
-                thumb:"Image/accessory/loudspeaker/4.JPG",
+                thumb:"Image/accessory/loudspeaker/4.jpg",
                 code_brand:"LO",
                 id:124
                 },
@@ -1122,7 +1122,7 @@ var dienThoai=[
                 name:"Loa-66",
                 price:"22.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/accessory/loudspeaker/5.JPG",
+                thumb:"Image/accessory/loudspeaker/5.jpg",
                 code_brand:"LO",
                 id:125
                 },
@@ -1131,7 +1131,7 @@ var dienThoai=[
                 name:"Loa-83",
                 price:"26.000.000đ",
                 old_price:"37.000.000đ",
-                thumb:"Image/accessory/loudspeaker/6.JPG",
+                thumb:"Image/accessory/loudspeaker/6.jpg",
                 code_brand:"LO",
                 id:126
                 },
@@ -1140,7 +1140,7 @@ var dienThoai=[
                 name:"Loa-63",
                 price:"28.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/accessory/loudspeaker/7.JPG",
+                thumb:"Image/accessory/loudspeaker/7.jpg",
                 code_brand:"LO",
                 id:127
                 },
@@ -1149,7 +1149,7 @@ var dienThoai=[
                 name:"Loa-38",
                 price:"26.000.000đ",
                 old_price:"32.000.000đ",
-                thumb:"Image/accessory/loudspeaker/8.JPG",
+                thumb:"Image/accessory/loudspeaker/8.jpg",
                 code_brand:"LO",
                 id:128
                 },
@@ -1158,7 +1158,7 @@ var dienThoai=[
                 name:"Loa-89",
                 price:"21.000.000đ",
                 old_price:"34.000.000đ",
-                thumb:"Image/accessory/loudspeaker/9.JPG",
+                thumb:"Image/accessory/loudspeaker/9.jpg",
                 code_brand:"LO",
                 id:129
                 },
@@ -1167,7 +1167,7 @@ var dienThoai=[
                 name:"Loa-39",
                 price:"22.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/accessory/loudspeaker/10.JPG",
+                thumb:"Image/accessory/loudspeaker/10.jpg",
                 code_brand:"LO",
                 id:130
                 },
@@ -1176,7 +1176,7 @@ var dienThoai=[
                 name:"Loa-89",
                 price:"21.000.000đ",
                 old_price:"38.000.000đ",
-                thumb:"Image/accessory/loudspeaker/11.JPG",
+                thumb:"Image/accessory/loudspeaker/11.jpg",
                 code_brand:"LO",
                 id:131
                 },
@@ -1185,7 +1185,7 @@ var dienThoai=[
                 name:"Loa-95",
                 price:"23.000.000đ",
                 old_price:"33.000.000đ",
-                thumb:"Image/accessory/loudspeaker/12.JPG",
+                thumb:"Image/accessory/loudspeaker/12.jpg",
                 code_brand:"LO",
                 id:132
                 },
@@ -1194,7 +1194,7 @@ var dienThoai=[
                 name:"Loa-87",
                 price:"28.000.000đ",
                 old_price:"36.000.000đ",
-                thumb:"Image/accessory/loudspeaker/13.JPG",
+                thumb:"Image/accessory/loudspeaker/13.jpg",
                 code_brand:"LO",
                 id:133
                 },
@@ -1203,7 +1203,7 @@ var dienThoai=[
                 name:"Loa-13",
                 price:"21.000.000đ",
                 old_price:"38.000.000đ",
-                thumb:"Image/accessory/loudspeaker/14.JPG",
+                thumb:"Image/accessory/loudspeaker/14.jpg",
                 code_brand:"LO",
                 id:134
                 },
@@ -1212,7 +1212,7 @@ var dienThoai=[
                 name:"Loa-62",
                 price:"27.000.000đ",
                 old_price:"37.000.000đ",
-                thumb:"Image/accessory/loudspeaker/15.JPG",
+                thumb:"Image/accessory/loudspeaker/15.jpg",
                 code_brand:"LO",
                 id:135
                 },
@@ -1221,7 +1221,7 @@ var dienThoai=[
                 name:"Loa-56",
                 price:"28.000.000đ",
                 old_price:"40.000.000đ",
-                thumb:"Image/accessory/loudspeaker/15.JPG",
+                thumb:"Image/accessory/loudspeaker/15.jpg",
                 code_brand:"LO",
                 id:136
                 },
@@ -1229,7 +1229,7 @@ var dienThoai=[
                     name:"Tai nghe-69",
                     price:"28.000.000đ",
                     old_price:"35.000.000đ",
-                    thumb:"Image/accessory/headphone/1.JPG",
+                    thumb:"Image/accessory/headphone/1.jpg",
                     code_brand:"TE",
                     id:137
                     },
@@ -1238,7 +1238,7 @@ var dienThoai=[
                     name:"Tai nghe-78",
                     price:"27.000.000đ",
                     old_price:"39.000.000đ",
-                    thumb:"Image/accessory/headphone/2.JPG",
+                    thumb:"Image/accessory/headphone/2.jpg",
                     code_brand:"TE",
                     id:138
                     },
@@ -1247,7 +1247,7 @@ var dienThoai=[
                     name:"Tai nghe-91",
                     price:"26.000.000đ",
                     old_price:"33.000.000đ",
-                    thumb:"Image/accessory/headphone/3.JPG",
+                    thumb:"Image/accessory/headphone/3.jpg",
                     code_brand:"TE",
                     id:139
                     },
@@ -1256,7 +1256,7 @@ var dienThoai=[
                     name:"Tai nghe-57",
                     price:"21.000.000đ",
                     old_price:"31.000.000đ",
-                    thumb:"Image/accessory/headphone/4.JPG",
+                    thumb:"Image/accessory/headphone/4.jpg",
                     code_brand:"TE",
                     id:140
                     },
@@ -1265,7 +1265,7 @@ var dienThoai=[
                     name:"Tai nghe-94",
                     price:"30.000.000đ",
                     old_price:"39.000.000đ",
-                    thumb:"Image/accessory/headphone/5.JPG",
+                    thumb:"Image/accessory/headphone/5.jpg",
                     code_brand:"TE",
                     id:141
                     },
@@ -1274,7 +1274,7 @@ var dienThoai=[
                     name:"Tai nghe-37",
                     price:"22.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/accessory/headphone/6.JPG",
+                    thumb:"Image/accessory/headphone/6.jpg",
                     code_brand:"TE",
                     id:142
                     },
@@ -1283,7 +1283,7 @@ var dienThoai=[
                     name:"Tai nghe-30",
                     price:"20.000.000đ",
                     old_price:"31.000.000đ",
-                    thumb:"Image/accessory/headphone/7.JPG",
+                    thumb:"Image/accessory/headphone/7.jpg",
                     code_brand:"TE",
                     id:143
                     },
@@ -1292,7 +1292,7 @@ var dienThoai=[
                     name:"Tai nghe-16",
                     price:"29.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/accessory/headphone/8.JPG",
+                    thumb:"Image/accessory/headphone/8.jpg",
                     code_brand:"TE",
                     id:144
                     },
@@ -1301,7 +1301,7 @@ var dienThoai=[
                     name:"Tai nghe-46",
                     price:"25.000.000đ",
                     old_price:"34.000.000đ",
-                    thumb:"Image/accessory/headphone/9.JPG",
+                    thumb:"Image/accessory/headphone/9.jpg",
                     code_brand:"TE",
                     id:145
                     },
@@ -1310,7 +1310,7 @@ var dienThoai=[
                     name:"Tai nghe-37",
                     price:"29.000.000đ",
                     old_price:"40.000.000đ",
-                    thumb:"Image/accessory/headphone/10.JPG",
+                    thumb:"Image/accessory/headphone/10.jpg",
                     code_brand:"TE",
                     id:146
                     },
@@ -1319,7 +1319,7 @@ var dienThoai=[
                     name:"Tai nghe-68",
                     price:"30.000.000đ",
                     old_price:"35.000.000đ",
-                    thumb:"Image/accessory/headphone/11.JPG",
+                    thumb:"Image/accessory/headphone/11.jpg",
                     code_brand:"TE",
                     id:147
                     },
@@ -1328,7 +1328,7 @@ var dienThoai=[
                     name:"Tai nghe-19",
                     price:"28.000.000đ",
                     old_price:"32.000.000đ",
-                    thumb:"Image/accessory/headphone/12.JPG",
+                    thumb:"Image/accessory/headphone/12.jpg",
                     code_brand:"TE",
                     id:148
                     },
@@ -1337,7 +1337,7 @@ var dienThoai=[
                     name:"Tai nghe-27",
                     price:"27.000.000đ",
                     old_price:"31.000.000đ",
-                    thumb:"Image/accessory/headphone/13.JPG",
+                    thumb:"Image/accessory/headphone/13.jpg",
                     code_brand:"TE",
                     id:149
                     },
@@ -1346,7 +1346,7 @@ var dienThoai=[
                     name:"Tai nghe-12",
                     price:"29.000.000đ",
                     old_price:"37.000.000đ",
-                    thumb:"Image/accessory/headphone/14.JPG",
+                    thumb:"Image/accessory/headphone/14.jpg",
                     code_brand:"TE",
                     id:150
                     },
@@ -1355,7 +1355,7 @@ var dienThoai=[
                     name:"Tai nghe-63",
                     price:"30.000.000đ",
                     old_price:"31.000.000đ",
-                    thumb:"Image/accessory/headphone/15.JPG",
+                    thumb:"Image/accessory/headphone/15.jpg",
                     code_brand:"TE",
                     id:151
                     },
@@ -1364,7 +1364,7 @@ var dienThoai=[
                     name:"Tai nghe-60",
                     price:"29.000.000đ",
                     old_price:"34.000.000đ",
-                    thumb:"Image/accessory/headphone/16.JPG",
+                    thumb:"Image/accessory/headphone/16.jpg",
                     code_brand:"TE",
                     id:152
                     },
@@ -1373,7 +1373,7 @@ var dienThoai=[
                     name:"Tai nghe-29",
                     price:"29.000.000đ",
                     old_price:"38.000.000đ",
-                    thumb:"Image/accessory/headphone/17.JPG",
+                    thumb:"Image/accessory/headphone/17.jpg",
                     code_brand:"TE",
                     id:153
                     },
@@ -1382,7 +1382,7 @@ var dienThoai=[
                     name:"Tai nghe-32",
                     price:"21.000.000đ",
                     old_price:"35.000.000đ",
-                    thumb:"Image/accessory/headphone/18.JPG",
+                    thumb:"Image/accessory/headphone/18.jpg",
                     code_brand:"TE",
                     id:154
                     },
@@ -1391,7 +1391,7 @@ var dienThoai=[
                     name:"Tai nghe-95",
                     price:"29.000.000đ",
                     old_price:"36.000.000đ",
-                    thumb:"Image/accessory/headphone/19.JPG",
+                    thumb:"Image/accessory/headphone/19.jpg",
                     code_brand:"TE",
                     id:155
                     },
@@ -1399,7 +1399,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-76",
                         price:"23.000.000đ",
                         old_price:"34.000.000đ",
-                        thumb:"Image/accessory/charger/1.JPG",
+                        thumb:"Image/accessory/charger/1.jpg",
                         code_brand:"SA",
                         id:156
                         },
@@ -1408,7 +1408,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-92",
                         price:"21.000.000đ",
                         old_price:"39.000.000đ",
-                        thumb:"Image/accessory/charger/2.JPG",
+                        thumb:"Image/accessory/charger/2.jpg",
                         code_brand:"SA",
                         id:157
                         },
@@ -1417,7 +1417,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-30",
                         price:"25.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/accessory/charger/3.JPG",
+                        thumb:"Image/accessory/charger/3.jpg",
                         code_brand:"SA",
                         id:158
                         },
@@ -1426,7 +1426,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-39",
                         price:"21.000.000đ",
                         old_price:"40.000.000đ",
-                        thumb:"Image/accessory/charger/4.JPG",
+                        thumb:"Image/accessory/charger/4.jpg",
                         code_brand:"SA",
                         id:159
                         },
@@ -1435,7 +1435,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-27",
                         price:"24.000.000đ",
                         old_price:"33.000.000đ",
-                        thumb:"Image/accessory/charger/5.JPG",
+                        thumb:"Image/accessory/charger/5.jpg",
                         code_brand:"SA",
                         id:160
                         },
@@ -1444,7 +1444,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-79",
                         price:"20.000.000đ",
                         old_price:"31.000.000đ",
-                        thumb:"Image/accessory/charger/6.JPG",
+                        thumb:"Image/accessory/charger/6.jpg",
                         code_brand:"SA",
                         id:161
                         },
@@ -1453,7 +1453,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-97",
                         price:"21.000.000đ",
                         old_price:"38.000.000đ",
-                        thumb:"Image/accessory/charger/7.JPG",
+                        thumb:"Image/accessory/charger/7.jpg",
                         code_brand:"SA",
                         id:162
                         },
@@ -1462,7 +1462,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-60",
                         price:"30.000.000đ",
                         old_price:"33.000.000đ",
-                        thumb:"Image/accessory/charger/8.JPG",
+                        thumb:"Image/accessory/charger/8.jpg",
                         code_brand:"SA",
                         id:163
                         },
@@ -1471,7 +1471,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-49",
                         price:"27.000.000đ",
                         old_price:"40.000.000đ",
-                        thumb:"Image/accessory/charger/9.JPG",
+                        thumb:"Image/accessory/charger/9.jpg",
                         code_brand:"SA",
                         id:164
                         },
@@ -1480,7 +1480,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-60",
                         price:"30.000.000đ",
                         old_price:"38.000.000đ",
-                        thumb:"Image/accessory/charger/10.JPG",
+                        thumb:"Image/accessory/charger/10.jpg",
                         code_brand:"SA",
                         id:165
                         },
@@ -1489,7 +1489,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-67",
                         price:"30.000.000đ",
                         old_price:"35.000.000đ",
-                        thumb:"Image/accessory/charger/11.JPG",
+                        thumb:"Image/accessory/charger/11.jpg",
                         code_brand:"SA",
                         id:166
                         },
@@ -1498,7 +1498,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-99",
                         price:"20.000.000đ",
                         old_price:"40.000.000đ",
-                        thumb:"Image/accessory/charger/12.JPG",
+                        thumb:"Image/accessory/charger/12.jpg",
                         code_brand:"SA",
                         id:167
                         },
@@ -1507,7 +1507,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-12",
                         price:"21.000.000đ",
                         old_price:"39.000.000đ",
-                        thumb:"Image/accessory/charger/13.JPG",
+                        thumb:"Image/accessory/charger/13.jpg",
                         code_brand:"SA",
                         id:168
                         },
@@ -1516,7 +1516,7 @@ var dienThoai=[
                         name:"Sạc Dự Phòng-21",
                         price:"24.000.000đ",
                         old_price:"36.000.000đ",
-                        thumb:"Image/accessory/charger/14.JPG",
+                        thumb:"Image/accessory/charger/14.jpg",
                         code_brand:"SA",
                         id:169
                         },
@@ -1525,7 +1525,7 @@ var dienThoai=[
                             name:"Mouse-60",
                             price:"26.000.000đ",
                             old_price:"34.000.000đ",
-                            thumb:"Image/accessory/mouse/1.JPG",
+                            thumb:"Image/accessory/mouse/1.jpg",
                             code_brand:"CH",
                             id:170
                             },
@@ -1534,7 +1534,7 @@ var dienThoai=[
                             name:"Mouse-69",
                             price:"21.000.000đ",
                             old_price:"33.000.000đ",
-                            thumb:"Image/accessory/mouse/2.JPG",
+                            thumb:"Image/accessory/mouse/2.jpg",
                             code_brand:"CH",
                             id:171
                             },
@@ -1543,7 +1543,7 @@ var dienThoai=[
                             name:"Mouse-78",
                             price:"30.000.000đ",
                             old_price:"31.000.000đ",
-                            thumb:"Image/accessory/mouse/3.JPG",
+                            thumb:"Image/accessory/mouse/3.jpg",
                             code_brand:"CH",
                             id:172
                             },
@@ -1552,7 +1552,7 @@ var dienThoai=[
                             name:"Mouse-29",
                             price:"25.000.000đ",
                             old_price:"40.000.000đ",
-                            thumb:"Image/accessory/mouse/4.JPG",
+                            thumb:"Image/accessory/mouse/4.jpg",
                             code_brand:"CH",
                             id:173
                             },
@@ -1561,7 +1561,7 @@ var dienThoai=[
                             name:"Mouse-91",
                             price:"21.000.000đ",
                             old_price:"31.000.000đ",
-                            thumb:"Image/accessory/mouse/5.JPG",
+                            thumb:"Image/accessory/mouse/5.jpg",
                             code_brand:"CH",
                             id:174
                             },
@@ -1570,7 +1570,7 @@ var dienThoai=[
                             name:"Mouse-49",
                             price:"26.000.000đ",
                             old_price:"39.000.000đ",
-                            thumb:"Image/accessory/mouse/6.JPG",
+                            thumb:"Image/accessory/mouse/6.jpg",
                             code_brand:"CH",
                             id:175
                             },
@@ -1579,7 +1579,7 @@ var dienThoai=[
                             name:"Mouse-49",
                             price:"25.000.000đ",
                             old_price:"33.000.000đ",
-                            thumb:"Image/accessory/mouse/7.JPG",
+                            thumb:"Image/accessory/mouse/7.jpg",
                             code_brand:"CH",
                             id:176
                             },
@@ -1588,7 +1588,7 @@ var dienThoai=[
                             name:"Mouse-92",
                             price:"23.000.000đ",
                             old_price:"40.000.000đ",
-                            thumb:"Image/accessory/mouse/8.JPG",
+                            thumb:"Image/accessory/mouse/8.jpg",
                             code_brand:"CH",
                             id:177
                             },
@@ -1597,7 +1597,7 @@ var dienThoai=[
                             name:"Mouse-25",
                             price:"27.000.000đ",
                             old_price:"33.000.000đ",
-                            thumb:"Image/accessory/mouse/9.JPG",
+                            thumb:"Image/accessory/mouse/9.jpg",
                             code_brand:"CH",
                             id:178
                             },
@@ -1606,7 +1606,7 @@ var dienThoai=[
                             name:"Mouse-60",
                             price:"20.000.000đ",
                             old_price:"31.000.000đ",
-                            thumb:"Image/accessory/mouse/10.JPG",
+                            thumb:"Image/accessory/mouse/10.jpg",
                             code_brand:"CH",
                             id:179
                             },
@@ -1615,7 +1615,7 @@ var dienThoai=[
                             name:"Mouse-37",
                             price:"23.000.000đ",
                             old_price:"34.000.000đ",
-                            thumb:"Image/accessory/mouse/11.JPG",
+                            thumb:"Image/accessory/mouse/11.jpg",
                             code_brand:"CH",
                             id:180
                             },
@@ -1624,7 +1624,7 @@ var dienThoai=[
                             name:"Mouse-70",
                             price:"20.000.000đ",
                             old_price:"36.000.000đ",
-                            thumb:"Image/accessory/mouse/12.JPG",
+                            thumb:"Image/accessory/mouse/12.jpg",
                             code_brand:"CH",
                             id:181
                             },
@@ -1633,7 +1633,7 @@ var dienThoai=[
                             name:"Mouse-29",
                             price:"27.000.000đ",
                             old_price:"36.000.000đ",
-                            thumb:"Image/accessory/mouse/13.JPG",
+                            thumb:"Image/accessory/mouse/13.jpg",
                             code_brand:"CH",
                             id:182
                             },
@@ -1642,7 +1642,7 @@ var dienThoai=[
                             name:"Mouse-97",
                             price:"22.000.000đ",
                             old_price:"38.000.000đ",
-                            thumb:"Image/accessory/mouse/14.JPG",
+                            thumb:"Image/accessory/mouse/14.jpg",
                             code_brand:"CH",
                             id:183
                             }
@@ -1656,7 +1656,7 @@ var  dongho=[
         name:"IWatch-62",
         price:"23.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Watch/1.JPG",
+        thumb:"Image/Watch/1.jpg",
         code_brand:"DO",
         id:184
         },
@@ -1665,7 +1665,7 @@ var  dongho=[
         name:"IWatch-80",
         price:"28.000.000đ",
         old_price:"31.000.000đ",
-        thumb:"Image/Watch/2.JPG",
+        thumb:"Image/Watch/2.jpg",
         code_brand:"DO",
         id:185
         },
@@ -1674,7 +1674,7 @@ var  dongho=[
         name:"IWatch-91",
         price:"22.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Watch/3.JPG",
+        thumb:"Image/Watch/3.jpg",
         code_brand:"DO",
         id:186
         },
@@ -1683,7 +1683,7 @@ var  dongho=[
         name:"IWatch-44",
         price:"20.000.000đ",
         old_price:"32.000.000đ",
-        thumb:"Image/Watch/4.JPG",
+        thumb:"Image/Watch/4.jpg",
         code_brand:"DO",
         id:187
         },
@@ -1692,7 +1692,7 @@ var  dongho=[
         name:"IWatch-56",
         price:"22.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Watch/5.JPG",
+        thumb:"Image/Watch/5.jpg",
         code_brand:"DO",
         id:188
         },
@@ -1701,7 +1701,7 @@ var  dongho=[
         name:"IWatch-35",
         price:"21.000.000đ",
         old_price:"34.000.000đ",
-        thumb:"Image/Watch/6.JPG",
+        thumb:"Image/Watch/6.jpg",
         code_brand:"DO",
         id:189
         },
@@ -1710,7 +1710,7 @@ var  dongho=[
         name:"IWatch-76",
         price:"24.000.000đ",
         old_price:"36.000.000đ",
-        thumb:"Image/Watch/7.JPG",
+        thumb:"Image/Watch/7.jpg",
         code_brand:"DO",
         id:190
         },
@@ -1719,7 +1719,7 @@ var  dongho=[
         name:"IWatch-39",
         price:"27.000.000đ",
         old_price:"31.000.000đ",
-        thumb:"Image/Watch/8.JPG",
+        thumb:"Image/Watch/8.jpg",
         code_brand:"DO",
         id:191
         },
@@ -1728,7 +1728,7 @@ var  dongho=[
         name:"IWatch-31",
         price:"24.000.000đ",
         old_price:"37.000.000đ",
-        thumb:"Image/Watch/9.JPG",
+        thumb:"Image/Watch/9.jpg",
         code_brand:"DO",
         id:192
         },
@@ -1737,7 +1737,7 @@ var  dongho=[
         name:"IWatch-24",
         price:"29.000.000đ",
         old_price:"34.000.000đ",
-        thumb:"Image/Watch/10.JPG",
+        thumb:"Image/Watch/10.jpg",
         code_brand:"DO",
         id:193
         },
@@ -1746,7 +1746,7 @@ var  dongho=[
         name:"IWatch-30",
         price:"24.000.000đ",
         old_price:"40.000.000đ",
-        thumb:"Image/Watch/11.JPG",
+        thumb:"Image/Watch/11.jpg",
         code_brand:"DO",
         id:194
         },
@@ -1755,7 +1755,7 @@ var  dongho=[
         name:"IWatch-43",
         price:"20.000.000đ",
         old_price:"36.000.000đ",
-        thumb:"Image/Watch/12.JPG",
+        thumb:"Image/Watch/12.jpg",
         code_brand:"DO",
         id:195
         },
@@ -1764,7 +1764,7 @@ var  dongho=[
         name:"IWatch-14",
         price:"23.000.000đ",
         old_price:"38.000.000đ",
-        thumb:"Image/Watch/13.JPG",
+        thumb:"Image/Watch/13.jpg",
         code_brand:"DO",
         id:196
         },
@@ -1773,7 +1773,7 @@ var  dongho=[
         name:"IWatch-88",
         price:"27.000.000đ",
         old_price:"31.000.000đ",
-        thumb:"Image/Watch/14.JPG",
+        thumb:"Image/Watch/14.jpg",
         code_brand:"DO",
         id:197
         },
@@ -1782,7 +1782,7 @@ var  dongho=[
         name:"IWatch-63",
         price:"24.000.000đ",
         old_price:"32.000.000đ",
-        thumb:"Image/Watch/15.JPG",
+        thumb:"Image/Watch/15.jpg",
         code_brand:"DO",
         id:198
         },
@@ -1791,7 +1791,7 @@ var  dongho=[
         name:"IWatch-62",
         price:"20.000.000đ",
         old_price:"34.000.000đ",
-        thumb:"Image/Watch/16.JPG",
+        thumb:"Image/Watch/16.jpg",
         code_brand:"DO",
         id:199
         },
@@ -1800,7 +1800,7 @@ var  dongho=[
         name:"IWatch-61",
         price:"25.000.000đ",
         old_price:"33.000.000đ",
-        thumb:"Image/Watch/17.JPG",
+        thumb:"Image/Watch/17.jpg",
         code_brand:"DO",
         id:200
         }
@@ -1811,7 +1811,7 @@ var mayin=[{
     name:"Printer-76",
     price:"22.000.000đ",
     old_price:"38.000.000đ",
-    thumb:"Image/printer/1.JPG",
+    thumb:"Image/printer/1.jpg",
     code_brand:"MI",
     id:201
     },
@@ -1820,7 +1820,7 @@ var mayin=[{
     name:"Printer-49",
     price:"24.000.000đ",
     old_price:"34.000.000đ",
-    thumb:"Image/printer/2.JPG",
+    thumb:"Image/printer/2.jpg",
     code_brand:"MI",
     id:202
     },
@@ -1829,7 +1829,7 @@ var mayin=[{
     name:"Printer-62",
     price:"22.000.000đ",
     old_price:"37.000.000đ",
-    thumb:"Image/printer/3.JPG",
+    thumb:"Image/printer/3.jpg",
     code_brand:"MI",
     id:203
     },
@@ -1838,7 +1838,7 @@ var mayin=[{
     name:"Printer-58",
     price:"30.000.000đ",
     old_price:"32.000.000đ",
-    thumb:"Image/printer/4.JPG",
+    thumb:"Image/printer/4.jpg",
     code_brand:"MI",
     id:204
     },
@@ -1847,7 +1847,7 @@ var mayin=[{
     name:"Printer-97",
     price:"30.000.000đ",
     old_price:"38.000.000đ",
-    thumb:"Image/printer/5.JPG",
+    thumb:"Image/printer/5.jpg",
     code_brand:"MI",
     id:205
     },
@@ -1856,7 +1856,7 @@ var mayin=[{
     name:"Printer-74",
     price:"30.000.000đ",
     old_price:"40.000.000đ",
-    thumb:"Image/printer/6.JPG",
+    thumb:"Image/printer/6.jpg",
     code_brand:"MI",
     id:206
     },
@@ -1865,7 +1865,7 @@ var mayin=[{
     name:"Printer-11",
     price:"22.000.000đ",
     old_price:"38.000.000đ",
-    thumb:"Image/printer/7.JPG",
+    thumb:"Image/printer/7.jpg",
     code_brand:"MI",
     id:207
     },
@@ -1874,7 +1874,7 @@ var mayin=[{
     name:"Printer-85",
     price:"30.000.000đ",
     old_price:"34.000.000đ",
-    thumb:"Image/printer/8.JPG",
+    thumb:"Image/printer/8.jpg",
     code_brand:"MI",
     id:208
     },
@@ -1883,7 +1883,7 @@ var mayin=[{
     name:"Printer-72",
     price:"28.000.000đ",
     old_price:"33.000.000đ",
-    thumb:"Image/printer/9.JPG",
+    thumb:"Image/printer/9.jpg",
     code_brand:"MI",
     id:209
     },
@@ -1892,7 +1892,7 @@ var mayin=[{
     name:"Printer-41",
     price:"22.000.000đ",
     old_price:"33.000.000đ",
-    thumb:"Image/printer/10.JPG",
+    thumb:"Image/printer/10.jpg",
     code_brand:"MI",
     id:210
     },
@@ -1901,7 +1901,7 @@ var mayin=[{
     name:"Printer-51",
     price:"27.000.000đ",
     old_price:"37.000.000đ",
-    thumb:"Image/printer/11.JPG",
+    thumb:"Image/printer/11.jpg",
     code_brand:"MI",
     id:211
     },
@@ -1910,7 +1910,7 @@ var mayin=[{
     name:"Printer-22",
     price:"28.000.000đ",
     old_price:"33.000.000đ",
-    thumb:"Image/printer/12.JPG",
+    thumb:"Image/printer/12.jpg",
     code_brand:"MI",
     id:212
     },
@@ -1919,7 +1919,7 @@ var mayin=[{
     name:"Printer-57",
     price:"21.000.000đ",
     old_price:"31.000.000đ",
-    thumb:"Image/printer/13.JPG",
+    thumb:"Image/printer/13.jpg",
     code_brand:"MI",
     id:213
     },
@@ -1928,7 +1928,7 @@ var mayin=[{
     name:"Printer-71",
     price:"21.000.000đ",
     old_price:"37.000.000đ",
-    thumb:"Image/printer/14.JPG",
+    thumb:"Image/printer/14.jpg",
     code_brand:"MI",
     id:214
     }
